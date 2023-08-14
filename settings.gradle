@@ -1,0 +1,5 @@
+rootProject.name = 'event driven mircoservice using kafka'
+include ':base-domains',
+        ':email-service',
+        ':order-service',
+        ':stock-service'
